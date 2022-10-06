@@ -14,3 +14,5 @@
 
 
 > Ejercicio: calcular el total en cada casilla y conocer el total acumulado hasta cada una de ellas.
+
+(Resultado)[https://jbarreraballestas.github.io/problema-tablero-ajedrez/]
