@@ -7,7 +7,7 @@
 ### Ejercicio: calcular el total en cada casilla y conocer el total acumulado hasta cada una de ellas.
 
 <details>
-<summary><strong>El total de granos de trigo es...</strong></summary>
+<summary><strong>El total de granos de trigo en todo el tablero es...</strong></summary>
 <code>Dieciocho trillones cuatrocientos cuarenta y seis mil setecientos cuarenta y cuatro billones setenta y tres mil setecientos nueve millones quinientos cincuenta y un mil seiscientos quince.</code>
 </details>
 
