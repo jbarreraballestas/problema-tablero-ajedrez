@@ -4,6 +4,7 @@
 
 <img src="https://i0.wp.com/matematicascercanas.com/wp-content/uploads/2014/03/granos1.jpg?resize=282%2C280&ssl=1" alt="Tablero de ajedrez" style="transform: rotateX(180deg);"/>
 
+### Ejercicio: calcular el total en cada casilla y conocer el total acumulado hasta cada una de ellas.
 
 <details>
 <summary><strong>El total de granos de trigo es...</strong></summary>
@@ -13,6 +14,5 @@
 
 
 
-> Ejercicio: calcular el total en cada casilla y conocer el total acumulado hasta cada una de ellas.
 
 [Resultado](https://jbarreraballestas.github.io/problema-tablero-ajedrez/)
